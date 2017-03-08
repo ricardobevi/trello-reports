@@ -5,10 +5,9 @@ var listsId = {};
 var listsStyles = {};
 
 listsId = [
-   '58374c0fe478b165395e0349'
-  ,'58374c0fe478b165395e034a'
-  ,'58374c0fe478b165395e034b'
-  ,'58374c0fe478b165395e034c'
+   '580a5f3cfa349774e00d7c00'
+  ,'56c726f323c1c5b880ebc2fb'
+  ,'56c726f54b93c2e1e4fe3aa1'
 ];
 
 listsStyles['TODO'] = {'name': 'todo', 'color': '#F44336'};
