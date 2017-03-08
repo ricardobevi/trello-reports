@@ -37,7 +37,7 @@ var authenticationSuccess = function() {
 
     groupedCards = TrelloReport.groupCardsByUser(cards);
 
-    //console.log(JSON.stringify(groupedCards));
+    console.log(JSON.stringify(groupedCards));
 
     var mail = '';
 
